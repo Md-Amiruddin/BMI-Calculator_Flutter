@@ -3,10 +3,10 @@
 A Body Mass Index Calculator inspired by the beautiful designs made by [Ruben Vaalt](https://dribbble.com/shots/4585382-Simple-BMI-Calculator). It is a multi screen app with simple functionality but full-on custom styling.
 
 ## Preview
+<div align="center">
+<video src='https://user-images.githubusercontent.com/87572877/220146105-261f8afd-f360-47fd-a705-858988db1317.mp4'/>
+</div>
 
-<p align="center">
-  <img src="https://github.com/Md-Amiruddin/BMI-Calculator_Flutter/blob/main/Landing_page_media/bmi_calculator_preview.gif" width="270" height="600" />
-</p>
 
 ## Work
 
