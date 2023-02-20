@@ -4,7 +4,9 @@ A Body Mass Index Calculator inspired by the beautiful designs made by [Ruben Va
 
 ## Preview
 
-
+<p align="center">
+  <img src="https://github.com/Md-Amiruddin/BMI-Calculator_Flutter/blob/main/Landing_page_media/bmi_calculator_preview.gif" width="270" height="600" />
+</p>
 
 ## Work
 
